@@ -1,0 +1,222 @@
+\begin{theindex}
+
+  \item {AlgorytmDijkstry}
+    \subitem {funkcje.cpp}, \hyperpage{11}
+    \subitem {funkcje.h}, \hyperpage{18}
+
+  \indexspace
+
+  \item {calloc}
+    \subitem {mem-\/leak-\/detect.cpp}, \hyperpage{24}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{27, 28}
+  \item {current\_dist}
+    \subitem {Drzewo}, \hyperpage{5}
+
+  \indexspace
+
+  \item {DEBUG\_NEW}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{27}
+  \item {DodajdoDrzewa}
+    \subitem {funkcje.cpp}, \hyperpage{12}
+    \subitem {funkcje.h}, \hyperpage{18}
+  \item {DodawanieDoListy}
+    \subitem {funkcje.cpp}, \hyperpage{12}
+    \subitem {funkcje.h}, \hyperpage{18}
+  \item {Drzewo}, \hyperpage{5}
+    \subitem {current\_dist}, \hyperpage{5}
+    \subitem {Miasto}, \hyperpage{5}
+    \subitem {pLewy}, \hyperpage{6}
+    \subitem {pOdleglosci}, \hyperpage{6}
+    \subitem {poprzednik\_w\_najkrotszej\_trasie}, \hyperpage{6}
+    \subitem {pPrawy}, \hyperpage{6}
+
+  \indexspace
+
+  \item {free}
+    \subitem {mem-\/leak-\/detect.cpp}, \hyperpage{24}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{27, 28}
+  \item {funkcje.cpp}, \hyperpage{11}
+    \subitem {AlgorytmDijkstry}, \hyperpage{11}
+    \subitem {DodajdoDrzewa}, \hyperpage{12}
+    \subitem {DodawanieDoListy}, \hyperpage{12}
+    \subitem {odczytajParametry}, \hyperpage{12}
+    \subitem {Usun}, \hyperpage{14}
+    \subitem {UsunListy}, \hyperpage{14}
+    \subitem {UsunStruktureTrasy}, \hyperpage{14}
+    \subitem {WczytajDane}, \hyperpage{15}
+    \subitem {ZapisywanieFaktyczne}, \hyperpage{15}
+    \subitem {ZapisywanieTras}, \hyperpage{15}
+    \subitem {Zapisz}, \hyperpage{16}
+    \subitem {ZapiszdoPliku}, \hyperpage{16}
+  \item {funkcje.h}, \hyperpage{17}
+    \subitem {AlgorytmDijkstry}, \hyperpage{18}
+    \subitem {DodajdoDrzewa}, \hyperpage{18}
+    \subitem {DodawanieDoListy}, \hyperpage{18}
+    \subitem {M}, \hyperpage{17}
+    \subitem {MAXINT}, \hyperpage{23}
+    \subitem {odczytajParametry}, \hyperpage{20}
+    \subitem {T}, \hyperpage{17}
+    \subitem {Usun}, \hyperpage{20}
+    \subitem {UsunListy}, \hyperpage{20}
+    \subitem {UsunStruktureTrasy}, \hyperpage{21}
+    \subitem {WczytajDane}, \hyperpage{21}
+    \subitem {ZapisywanieFaktyczne}, \hyperpage{21}
+    \subitem {ZapisywanieTras}, \hyperpage{22}
+    \subitem {Zapisz}, \hyperpage{22}
+    \subitem {ZapiszdoPliku}, \hyperpage{22}
+
+  \indexspace
+
+  \item {kilometry}
+    \subitem {Odleglosc}, \hyperpage{7}
+
+  \indexspace
+
+  \item {M}
+    \subitem {funkcje.h}, \hyperpage{17}
+  \item {main}
+    \subitem {main.cpp}, \hyperpage{23}
+  \item {main.cpp}, \hyperpage{23}
+    \subitem {main}, \hyperpage{23}
+  \item {malloc}
+    \subitem {mem-\/leak-\/detect.cpp}, \hyperpage{25}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{27, 28}
+  \item {MAXINT}
+    \subitem {funkcje.h}, \hyperpage{23}
+  \item {mem-\/leak-\/config.h}, \hyperpage{24}
+    \subitem {TURN\_ON\_MEM\_LEAK\_DETECTION}, \hyperpage{24}
+  \item {mem-\/leak-\/detect.cpp}, \hyperpage{24}
+    \subitem {calloc}, \hyperpage{24}
+    \subitem {free}, \hyperpage{24}
+    \subitem {malloc}, \hyperpage{25}
+    \subitem {operator delete}, \hyperpage{25}
+    \subitem {operator delete[]}, \hyperpage{25}
+    \subitem {operator new}, \hyperpage{25}
+    \subitem {operator new[]}, \hyperpage{25, 26}
+    \subitem {realloc}, \hyperpage{26}
+  \item {mem-\/leak-\/detect.h}, \hyperpage{26}
+    \subitem {calloc}, \hyperpage{27, 28}
+    \subitem {DEBUG\_NEW}, \hyperpage{27}
+    \subitem {free}, \hyperpage{27, 28}
+    \subitem {malloc}, \hyperpage{27, 28}
+    \subitem {new}, \hyperpage{27}
+    \subitem {operator delete}, \hyperpage{28}
+    \subitem {operator delete[]}, \hyperpage{28}
+    \subitem {operator new}, \hyperpage{28}
+    \subitem {operator new[]}, \hyperpage{29}
+    \subitem {realloc}, \hyperpage{27}, \hyperpage{29}
+  \item {Miasto}
+    \subitem {Drzewo}, \hyperpage{5}
+    \subitem {Trasa}, \hyperpage{9}
+
+  \indexspace
+
+  \item {Nastepny}
+    \subitem {Trasa}, \hyperpage{10}
+  \item {new}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{27}
+
+  \indexspace
+
+  \item {odczytajParametry}
+    \subitem {funkcje.cpp}, \hyperpage{12}
+    \subitem {funkcje.h}, \hyperpage{20}
+  \item {Odleglosc}, \hyperpage{6}
+    \subitem {kilometry}, \hyperpage{7}
+    \subitem {pNastepny}, \hyperpage{7}
+    \subitem {Polaczenie}, \hyperpage{7}
+  \item {operator delete}
+    \subitem {mem-\/leak-\/detect.cpp}, \hyperpage{25}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{28}
+  \item {operator delete[]}
+    \subitem {mem-\/leak-\/detect.cpp}, \hyperpage{25}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{28}
+  \item {operator new}
+    \subitem {mem-\/leak-\/detect.cpp}, \hyperpage{25}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{28}
+  \item {operator new[]}
+    \subitem {mem-\/leak-\/detect.cpp}, \hyperpage{25, 26}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{29}
+  \item {operator()}
+    \subitem {PorownajDrzewa}, \hyperpage{9}
+
+  \indexspace
+
+  \item {Parametry}, \hyperpage{7}
+    \subitem {plikwejsciowy}, \hyperpage{8}
+    \subitem {plikwyjsciowy}, \hyperpage{8}
+    \subitem {siedziba}, \hyperpage{8}
+  \item {pLewy}
+    \subitem {Drzewo}, \hyperpage{6}
+  \item {plikwejsciowy}
+    \subitem {Parametry}, \hyperpage{8}
+  \item {plikwyjsciowy}
+    \subitem {Parametry}, \hyperpage{8}
+  \item {pNastepny}
+    \subitem {Odleglosc}, \hyperpage{7}
+  \item {pOdleglosci}
+    \subitem {Drzewo}, \hyperpage{6}
+  \item {Polaczenie}
+    \subitem {Odleglosc}, \hyperpage{7}
+  \item {poprzednik\_w\_najkrotszej\_trasie}
+    \subitem {Drzewo}, \hyperpage{6}
+  \item {PorownajDrzewa}, \hyperpage{8}
+    \subitem {operator()}, \hyperpage{9}
+  \item {pPrawy}
+    \subitem {Drzewo}, \hyperpage{6}
+
+  \indexspace
+
+  \item {realloc}
+    \subitem {mem-\/leak-\/detect.cpp}, \hyperpage{26}
+    \subitem {mem-\/leak-\/detect.h}, \hyperpage{27}, \hyperpage{29}
+
+  \indexspace
+
+  \item {siedziba}
+    \subitem {Parametry}, \hyperpage{8}
+
+  \indexspace
+
+  \item {T}
+    \subitem {funkcje.h}, \hyperpage{17}
+  \item {Trasa}, \hyperpage{9}
+    \subitem {Miasto}, \hyperpage{9}
+    \subitem {Nastepny}, \hyperpage{10}
+  \item {TURN\_ON\_MEM\_LEAK\_DETECTION}
+    \subitem {mem-\/leak-\/config.h}, \hyperpage{24}
+
+  \indexspace
+
+  \item {Usun}
+    \subitem {funkcje.cpp}, \hyperpage{14}
+    \subitem {funkcje.h}, \hyperpage{20}
+  \item {UsunListy}
+    \subitem {funkcje.cpp}, \hyperpage{14}
+    \subitem {funkcje.h}, \hyperpage{20}
+  \item {UsunStruktureTrasy}
+    \subitem {funkcje.cpp}, \hyperpage{14}
+    \subitem {funkcje.h}, \hyperpage{21}
+
+  \indexspace
+
+  \item {WczytajDane}
+    \subitem {funkcje.cpp}, \hyperpage{15}
+    \subitem {funkcje.h}, \hyperpage{21}
+
+  \indexspace
+
+  \item {ZapisywanieFaktyczne}
+    \subitem {funkcje.cpp}, \hyperpage{15}
+    \subitem {funkcje.h}, \hyperpage{21}
+  \item {ZapisywanieTras}
+    \subitem {funkcje.cpp}, \hyperpage{15}
+    \subitem {funkcje.h}, \hyperpage{22}
+  \item {Zapisz}
+    \subitem {funkcje.cpp}, \hyperpage{16}
+    \subitem {funkcje.h}, \hyperpage{22}
+  \item {ZapiszdoPliku}
+    \subitem {funkcje.cpp}, \hyperpage{16}
+    \subitem {funkcje.h}, \hyperpage{22}
+
+\end{theindex}

@@ -1,0 +1,147 @@
+\indexentry{Drzewo@{Drzewo}|hyperpage}{5}
+\indexentry{Drzewo@{Drzewo}!current\_dist@{current\_dist}|hyperpage}{5}
+\indexentry{current\_dist@{current\_dist}!Drzewo@{Drzewo}|hyperpage}{5}
+\indexentry{Drzewo@{Drzewo}!Miasto@{Miasto}|hyperpage}{5}
+\indexentry{Miasto@{Miasto}!Drzewo@{Drzewo}|hyperpage}{5}
+\indexentry{Drzewo@{Drzewo}!pLewy@{pLewy}|hyperpage}{6}
+\indexentry{pLewy@{pLewy}!Drzewo@{Drzewo}|hyperpage}{6}
+\indexentry{Drzewo@{Drzewo}!pOdleglosci@{pOdleglosci}|hyperpage}{6}
+\indexentry{pOdleglosci@{pOdleglosci}!Drzewo@{Drzewo}|hyperpage}{6}
+\indexentry{Drzewo@{Drzewo}!poprzednik\_w\_najkrotszej\_trasie@{poprzednik\_w\_najkrotszej\_trasie}|hyperpage}{6}
+\indexentry{poprzednik\_w\_najkrotszej\_trasie@{poprzednik\_w\_najkrotszej\_trasie}!Drzewo@{Drzewo}|hyperpage}{6}
+\indexentry{Drzewo@{Drzewo}!pPrawy@{pPrawy}|hyperpage}{6}
+\indexentry{pPrawy@{pPrawy}!Drzewo@{Drzewo}|hyperpage}{6}
+\indexentry{Odleglosc@{Odleglosc}|hyperpage}{6}
+\indexentry{Odleglosc@{Odleglosc}!kilometry@{kilometry}|hyperpage}{7}
+\indexentry{kilometry@{kilometry}!Odleglosc@{Odleglosc}|hyperpage}{7}
+\indexentry{Odleglosc@{Odleglosc}!pNastepny@{pNastepny}|hyperpage}{7}
+\indexentry{pNastepny@{pNastepny}!Odleglosc@{Odleglosc}|hyperpage}{7}
+\indexentry{Odleglosc@{Odleglosc}!Polaczenie@{Polaczenie}|hyperpage}{7}
+\indexentry{Polaczenie@{Polaczenie}!Odleglosc@{Odleglosc}|hyperpage}{7}
+\indexentry{Parametry@{Parametry}|hyperpage}{7}
+\indexentry{Parametry@{Parametry}!plikwejsciowy@{plikwejsciowy}|hyperpage}{8}
+\indexentry{plikwejsciowy@{plikwejsciowy}!Parametry@{Parametry}|hyperpage}{8}
+\indexentry{Parametry@{Parametry}!plikwyjsciowy@{plikwyjsciowy}|hyperpage}{8}
+\indexentry{plikwyjsciowy@{plikwyjsciowy}!Parametry@{Parametry}|hyperpage}{8}
+\indexentry{Parametry@{Parametry}!siedziba@{siedziba}|hyperpage}{8}
+\indexentry{siedziba@{siedziba}!Parametry@{Parametry}|hyperpage}{8}
+\indexentry{PorownajDrzewa@{PorownajDrzewa}|hyperpage}{8}
+\indexentry{PorownajDrzewa@{PorownajDrzewa}!operator()@{operator()}|hyperpage}{9}
+\indexentry{operator()@{operator()}!PorownajDrzewa@{PorownajDrzewa}|hyperpage}{9}
+\indexentry{Trasa@{Trasa}|hyperpage}{9}
+\indexentry{Trasa@{Trasa}!Miasto@{Miasto}|hyperpage}{9}
+\indexentry{Miasto@{Miasto}!Trasa@{Trasa}|hyperpage}{9}
+\indexentry{Trasa@{Trasa}!Nastepny@{Nastepny}|hyperpage}{10}
+\indexentry{Nastepny@{Nastepny}!Trasa@{Trasa}|hyperpage}{10}
+\indexentry{funkcje.cpp@{funkcje.cpp}|hyperpage}{11}
+\indexentry{funkcje.cpp@{funkcje.cpp}!AlgorytmDijkstry@{AlgorytmDijkstry}|hyperpage}{11}
+\indexentry{AlgorytmDijkstry@{AlgorytmDijkstry}!funkcje.cpp@{funkcje.cpp}|hyperpage}{11}
+\indexentry{funkcje.cpp@{funkcje.cpp}!DodajdoDrzewa@{DodajdoDrzewa}|hyperpage}{12}
+\indexentry{DodajdoDrzewa@{DodajdoDrzewa}!funkcje.cpp@{funkcje.cpp}|hyperpage}{12}
+\indexentry{funkcje.cpp@{funkcje.cpp}!DodawanieDoListy@{DodawanieDoListy}|hyperpage}{12}
+\indexentry{DodawanieDoListy@{DodawanieDoListy}!funkcje.cpp@{funkcje.cpp}|hyperpage}{12}
+\indexentry{funkcje.cpp@{funkcje.cpp}!odczytajParametry@{odczytajParametry}|hyperpage}{12}
+\indexentry{odczytajParametry@{odczytajParametry}!funkcje.cpp@{funkcje.cpp}|hyperpage}{12}
+\indexentry{funkcje.cpp@{funkcje.cpp}!Usun@{Usun}|hyperpage}{14}
+\indexentry{Usun@{Usun}!funkcje.cpp@{funkcje.cpp}|hyperpage}{14}
+\indexentry{funkcje.cpp@{funkcje.cpp}!UsunListy@{UsunListy}|hyperpage}{14}
+\indexentry{UsunListy@{UsunListy}!funkcje.cpp@{funkcje.cpp}|hyperpage}{14}
+\indexentry{funkcje.cpp@{funkcje.cpp}!UsunStruktureTrasy@{UsunStruktureTrasy}|hyperpage}{14}
+\indexentry{UsunStruktureTrasy@{UsunStruktureTrasy}!funkcje.cpp@{funkcje.cpp}|hyperpage}{14}
+\indexentry{funkcje.cpp@{funkcje.cpp}!WczytajDane@{WczytajDane}|hyperpage}{15}
+\indexentry{WczytajDane@{WczytajDane}!funkcje.cpp@{funkcje.cpp}|hyperpage}{15}
+\indexentry{funkcje.cpp@{funkcje.cpp}!ZapisywanieFaktyczne@{ZapisywanieFaktyczne}|hyperpage}{15}
+\indexentry{ZapisywanieFaktyczne@{ZapisywanieFaktyczne}!funkcje.cpp@{funkcje.cpp}|hyperpage}{15}
+\indexentry{funkcje.cpp@{funkcje.cpp}!ZapisywanieTras@{ZapisywanieTras}|hyperpage}{15}
+\indexentry{ZapisywanieTras@{ZapisywanieTras}!funkcje.cpp@{funkcje.cpp}|hyperpage}{15}
+\indexentry{funkcje.cpp@{funkcje.cpp}!Zapisz@{Zapisz}|hyperpage}{16}
+\indexentry{Zapisz@{Zapisz}!funkcje.cpp@{funkcje.cpp}|hyperpage}{16}
+\indexentry{funkcje.cpp@{funkcje.cpp}!ZapiszdoPliku@{ZapiszdoPliku}|hyperpage}{16}
+\indexentry{ZapiszdoPliku@{ZapiszdoPliku}!funkcje.cpp@{funkcje.cpp}|hyperpage}{16}
+\indexentry{funkcje.h@{funkcje.h}|hyperpage}{17}
+\indexentry{funkcje.h@{funkcje.h}!M@{M}|hyperpage}{17}
+\indexentry{M@{M}!funkcje.h@{funkcje.h}|hyperpage}{17}
+\indexentry{funkcje.h@{funkcje.h}!T@{T}|hyperpage}{17}
+\indexentry{T@{T}!funkcje.h@{funkcje.h}|hyperpage}{17}
+\indexentry{funkcje.h@{funkcje.h}!AlgorytmDijkstry@{AlgorytmDijkstry}|hyperpage}{18}
+\indexentry{AlgorytmDijkstry@{AlgorytmDijkstry}!funkcje.h@{funkcje.h}|hyperpage}{18}
+\indexentry{funkcje.h@{funkcje.h}!DodajdoDrzewa@{DodajdoDrzewa}|hyperpage}{18}
+\indexentry{DodajdoDrzewa@{DodajdoDrzewa}!funkcje.h@{funkcje.h}|hyperpage}{18}
+\indexentry{funkcje.h@{funkcje.h}!DodawanieDoListy@{DodawanieDoListy}|hyperpage}{18}
+\indexentry{DodawanieDoListy@{DodawanieDoListy}!funkcje.h@{funkcje.h}|hyperpage}{18}
+\indexentry{funkcje.h@{funkcje.h}!odczytajParametry@{odczytajParametry}|hyperpage}{20}
+\indexentry{odczytajParametry@{odczytajParametry}!funkcje.h@{funkcje.h}|hyperpage}{20}
+\indexentry{funkcje.h@{funkcje.h}!Usun@{Usun}|hyperpage}{20}
+\indexentry{Usun@{Usun}!funkcje.h@{funkcje.h}|hyperpage}{20}
+\indexentry{funkcje.h@{funkcje.h}!UsunListy@{UsunListy}|hyperpage}{20}
+\indexentry{UsunListy@{UsunListy}!funkcje.h@{funkcje.h}|hyperpage}{20}
+\indexentry{funkcje.h@{funkcje.h}!UsunStruktureTrasy@{UsunStruktureTrasy}|hyperpage}{21}
+\indexentry{UsunStruktureTrasy@{UsunStruktureTrasy}!funkcje.h@{funkcje.h}|hyperpage}{21}
+\indexentry{funkcje.h@{funkcje.h}!WczytajDane@{WczytajDane}|hyperpage}{21}
+\indexentry{WczytajDane@{WczytajDane}!funkcje.h@{funkcje.h}|hyperpage}{21}
+\indexentry{funkcje.h@{funkcje.h}!ZapisywanieFaktyczne@{ZapisywanieFaktyczne}|hyperpage}{21}
+\indexentry{ZapisywanieFaktyczne@{ZapisywanieFaktyczne}!funkcje.h@{funkcje.h}|hyperpage}{21}
+\indexentry{funkcje.h@{funkcje.h}!ZapisywanieTras@{ZapisywanieTras}|hyperpage}{22}
+\indexentry{ZapisywanieTras@{ZapisywanieTras}!funkcje.h@{funkcje.h}|hyperpage}{22}
+\indexentry{funkcje.h@{funkcje.h}!Zapisz@{Zapisz}|hyperpage}{22}
+\indexentry{Zapisz@{Zapisz}!funkcje.h@{funkcje.h}|hyperpage}{22}
+\indexentry{funkcje.h@{funkcje.h}!ZapiszdoPliku@{ZapiszdoPliku}|hyperpage}{22}
+\indexentry{ZapiszdoPliku@{ZapiszdoPliku}!funkcje.h@{funkcje.h}|hyperpage}{22}
+\indexentry{funkcje.h@{funkcje.h}!MAXINT@{MAXINT}|hyperpage}{23}
+\indexentry{MAXINT@{MAXINT}!funkcje.h@{funkcje.h}|hyperpage}{23}
+\indexentry{main.cpp@{main.cpp}|hyperpage}{23}
+\indexentry{main.cpp@{main.cpp}!main@{main}|hyperpage}{23}
+\indexentry{main@{main}!main.cpp@{main.cpp}|hyperpage}{23}
+\indexentry{mem-\/leak-\/config.h@{mem-\/leak-\/config.h}|hyperpage}{24}
+\indexentry{mem-\/leak-\/config.h@{mem-\/leak-\/config.h}!TURN\_ON\_MEM\_LEAK\_DETECTION@{TURN\_ON\_MEM\_LEAK\_DETECTION}|hyperpage}{24}
+\indexentry{TURN\_ON\_MEM\_LEAK\_DETECTION@{TURN\_ON\_MEM\_LEAK\_DETECTION}!mem-\/leak-\/config.h@{mem-\/leak-\/config.h}|hyperpage}{24}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{24}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!calloc@{calloc}|hyperpage}{24}
+\indexentry{calloc@{calloc}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{24}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!free@{free}|hyperpage}{24}
+\indexentry{free@{free}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{24}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!malloc@{malloc}|hyperpage}{25}
+\indexentry{malloc@{malloc}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{25}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!operator delete@{operator delete}|hyperpage}{25}
+\indexentry{operator delete@{operator delete}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{25}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!operator delete\mbox{[}\mbox{]}@{operator delete[]}|hyperpage}{25}
+\indexentry{operator delete\mbox{[}\mbox{]}@{operator delete[]}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{25}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!operator new@{operator new}|hyperpage}{25}
+\indexentry{operator new@{operator new}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{25}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!operator new@{operator new}|hyperpage}{25}
+\indexentry{operator new@{operator new}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{25}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!operator new\mbox{[}\mbox{]}@{operator new[]}|hyperpage}{25}
+\indexentry{operator new\mbox{[}\mbox{]}@{operator new[]}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{25}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!operator new\mbox{[}\mbox{]}@{operator new[]}|hyperpage}{26}
+\indexentry{operator new\mbox{[}\mbox{]}@{operator new[]}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{26}
+\indexentry{mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}!realloc@{realloc}|hyperpage}{26}
+\indexentry{realloc@{realloc}!mem-\/leak-\/detect.cpp@{mem-\/leak-\/detect.cpp}|hyperpage}{26}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{26}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!calloc@{calloc}|hyperpage}{27}
+\indexentry{calloc@{calloc}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{27}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!DEBUG\_NEW@{DEBUG\_NEW}|hyperpage}{27}
+\indexentry{DEBUG\_NEW@{DEBUG\_NEW}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{27}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!free@{free}|hyperpage}{27}
+\indexentry{free@{free}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{27}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!malloc@{malloc}|hyperpage}{27}
+\indexentry{malloc@{malloc}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{27}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!new@{new}|hyperpage}{27}
+\indexentry{new@{new}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{27}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!realloc@{realloc}|hyperpage}{27}
+\indexentry{realloc@{realloc}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{27}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!calloc@{calloc}|hyperpage}{28}
+\indexentry{calloc@{calloc}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{28}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!free@{free}|hyperpage}{28}
+\indexentry{free@{free}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{28}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!malloc@{malloc}|hyperpage}{28}
+\indexentry{malloc@{malloc}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{28}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!operator delete@{operator delete}|hyperpage}{28}
+\indexentry{operator delete@{operator delete}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{28}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!operator delete\mbox{[}\mbox{]}@{operator delete[]}|hyperpage}{28}
+\indexentry{operator delete\mbox{[}\mbox{]}@{operator delete[]}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{28}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!operator new@{operator new}|hyperpage}{28}
+\indexentry{operator new@{operator new}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{28}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!operator new\mbox{[}\mbox{]}@{operator new[]}|hyperpage}{29}
+\indexentry{operator new\mbox{[}\mbox{]}@{operator new[]}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{29}
+\indexentry{mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}!realloc@{realloc}|hyperpage}{29}
+\indexentry{realloc@{realloc}!mem-\/leak-\/detect.h@{mem-\/leak-\/detect.h}|hyperpage}{29}

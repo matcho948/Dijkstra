@@ -1,0 +1,106 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Class Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Class List}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}File Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}File List}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Class Documentation}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Drzewo Struct Reference}{5}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Detailed Description}{5}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Member Data Documentation}{5}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}current\_dist}{5}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}Miasto}{6}{subsubsection.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.3}pLewy}{6}{subsubsection.3.1.2.3}%
+\contentsline {subsubsection}{\numberline {3.1.2.4}pOdleglosci}{6}{subsubsection.3.1.2.4}%
+\contentsline {subsubsection}{\numberline {3.1.2.5}poprzednik\_w\_najkrotszej\_trasie}{6}{subsubsection.3.1.2.5}%
+\contentsline {subsubsection}{\numberline {3.1.2.6}pPrawy}{6}{subsubsection.3.1.2.6}%
+\contentsline {section}{\numberline {3.2}Odleglosc Struct Reference}{6}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Detailed Description}{7}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Member Data Documentation}{7}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}kilometry}{7}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}pNastepny}{7}{subsubsection.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.3}Polaczenie}{7}{subsubsection.3.2.2.3}%
+\contentsline {section}{\numberline {3.3}Parametry Struct Reference}{7}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Detailed Description}{8}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Member Data Documentation}{8}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}plikwejsciowy}{8}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}plikwyjsciowy}{8}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.3}siedziba}{8}{subsubsection.3.3.2.3}%
+\contentsline {section}{\numberline {3.4}Porownaj\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Drzewa Struct Reference}{8}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Detailed Description}{9}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Member Function Documentation}{9}{subsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.2.1}operator()()}{9}{subsubsection.3.4.2.1}%
+\contentsline {section}{\numberline {3.5}Trasa Struct Reference}{9}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Detailed Description}{9}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Member Data Documentation}{9}{subsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.2.1}Miasto}{10}{subsubsection.3.5.2.1}%
+\contentsline {subsubsection}{\numberline {3.5.2.2}Nastepny}{10}{subsubsection.3.5.2.2}%
+\contentsline {chapter}{\numberline {4}File Documentation}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}funkcje.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{11}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Function Documentation}{11}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}AlgorytmDijkstry()}{11}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}DodajdoDrzewa()}{12}{subsubsection.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.1.3}DodawanieDoListy()}{12}{subsubsection.4.1.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.1.4}odczytajParametry()}{12}{subsubsection.4.1.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.1.5}Usun()}{14}{subsubsection.4.1.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.1.6}UsunListy()}{14}{subsubsection.4.1.1.6}%
+\contentsline {subsubsection}{\numberline {4.1.1.7}UsunStruktureTrasy()}{14}{subsubsection.4.1.1.7}%
+\contentsline {subsubsection}{\numberline {4.1.1.8}WczytajDane()}{15}{subsubsection.4.1.1.8}%
+\contentsline {subsubsection}{\numberline {4.1.1.9}ZapisywanieFaktyczne()}{15}{subsubsection.4.1.1.9}%
+\contentsline {subsubsection}{\numberline {4.1.1.10}ZapisywanieTras()}{15}{subsubsection.4.1.1.10}%
+\contentsline {subsubsection}{\numberline {4.1.1.11}Zapisz()}{16}{subsubsection.4.1.1.11}%
+\contentsline {subsubsection}{\numberline {4.1.1.12}ZapiszdoPliku()}{16}{subsubsection.4.1.1.12}%
+\contentsline {section}{\numberline {4.2}funkcje.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h File Reference}{17}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Typedef Documentation}{17}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}M}{17}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.2}T}{18}{subsubsection.4.2.1.2}%
+\contentsline {subsection}{\numberline {4.2.2}Function Documentation}{18}{subsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}AlgorytmDijkstry()}{18}{subsubsection.4.2.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2.2}DodajdoDrzewa()}{18}{subsubsection.4.2.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.3}DodawanieDoListy()}{18}{subsubsection.4.2.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.2.4}odczytajParametry()}{20}{subsubsection.4.2.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.2.5}Usun()}{20}{subsubsection.4.2.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.2.6}UsunListy()}{20}{subsubsection.4.2.2.6}%
+\contentsline {subsubsection}{\numberline {4.2.2.7}UsunStruktureTrasy()}{21}{subsubsection.4.2.2.7}%
+\contentsline {subsubsection}{\numberline {4.2.2.8}WczytajDane()}{21}{subsubsection.4.2.2.8}%
+\contentsline {subsubsection}{\numberline {4.2.2.9}ZapisywanieFaktyczne()}{21}{subsubsection.4.2.2.9}%
+\contentsline {subsubsection}{\numberline {4.2.2.10}ZapisywanieTras()}{22}{subsubsection.4.2.2.10}%
+\contentsline {subsubsection}{\numberline {4.2.2.11}Zapisz()}{22}{subsubsection.4.2.2.11}%
+\contentsline {subsubsection}{\numberline {4.2.2.12}ZapiszdoPliku()}{22}{subsubsection.4.2.2.12}%
+\contentsline {subsection}{\numberline {4.2.3}Variable Documentation}{23}{subsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.3.1}MAXINT}{23}{subsubsection.4.2.3.1}%
+\contentsline {section}{\numberline {4.3}main.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{23}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Function Documentation}{23}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}main()}{23}{subsubsection.4.3.1.1}%
+\contentsline {section}{\numberline {4.4}mem-\/leak-\/config.h File Reference}{24}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Macro Definition Documentation}{24}{subsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.1}TURN\_ON\_MEM\_LEAK\_DETECTION}{24}{subsubsection.4.4.1.1}%
+\contentsline {section}{\numberline {4.5}mem-\/leak-\/detect.cpp File Reference}{24}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Function Documentation}{24}{subsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.1.1}calloc()}{24}{subsubsection.4.5.1.1}%
+\contentsline {subsubsection}{\numberline {4.5.1.2}free()}{25}{subsubsection.4.5.1.2}%
+\contentsline {subsubsection}{\numberline {4.5.1.3}malloc()}{25}{subsubsection.4.5.1.3}%
+\contentsline {subsubsection}{\numberline {4.5.1.4}operator delete()}{25}{subsubsection.4.5.1.4}%
+\contentsline {subsubsection}{\numberline {4.5.1.5}operator delete[]()}{25}{subsubsection.4.5.1.5}%
+\contentsline {subsubsection}{\numberline {4.5.1.6}operator new()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{25}{subsubsection.4.5.1.6}%
+\contentsline {subsubsection}{\numberline {4.5.1.7}operator new()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{25}{subsubsection.4.5.1.7}%
+\contentsline {subsubsection}{\numberline {4.5.1.8}operator new[]()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{26}{subsubsection.4.5.1.8}%
+\contentsline {subsubsection}{\numberline {4.5.1.9}operator new[]()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{26}{subsubsection.4.5.1.9}%
+\contentsline {subsubsection}{\numberline {4.5.1.10}realloc()}{26}{subsubsection.4.5.1.10}%
+\contentsline {section}{\numberline {4.6}mem-\/leak-\/detect.h File Reference}{26}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Macro Definition Documentation}{27}{subsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.1.1}calloc}{27}{subsubsection.4.6.1.1}%
+\contentsline {subsubsection}{\numberline {4.6.1.2}DEBUG\_NEW}{27}{subsubsection.4.6.1.2}%
+\contentsline {subsubsection}{\numberline {4.6.1.3}free}{27}{subsubsection.4.6.1.3}%
+\contentsline {subsubsection}{\numberline {4.6.1.4}malloc}{27}{subsubsection.4.6.1.4}%
+\contentsline {subsubsection}{\numberline {4.6.1.5}new}{27}{subsubsection.4.6.1.5}%
+\contentsline {subsubsection}{\numberline {4.6.1.6}realloc}{27}{subsubsection.4.6.1.6}%
+\contentsline {subsection}{\numberline {4.6.2}Function Documentation}{28}{subsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.2.1}calloc()}{28}{subsubsection.4.6.2.1}%
+\contentsline {subsubsection}{\numberline {4.6.2.2}free()}{28}{subsubsection.4.6.2.2}%
+\contentsline {subsubsection}{\numberline {4.6.2.3}malloc()}{28}{subsubsection.4.6.2.3}%
+\contentsline {subsubsection}{\numberline {4.6.2.4}operator delete()}{28}{subsubsection.4.6.2.4}%
+\contentsline {subsubsection}{\numberline {4.6.2.5}operator delete[]()}{28}{subsubsection.4.6.2.5}%
+\contentsline {subsubsection}{\numberline {4.6.2.6}operator new()}{29}{subsubsection.4.6.2.6}%
+\contentsline {subsubsection}{\numberline {4.6.2.7}operator new[]()}{29}{subsubsection.4.6.2.7}%
+\contentsline {subsubsection}{\numberline {4.6.2.8}realloc()}{29}{subsubsection.4.6.2.8}%
+\contentsline {chapter}{Index}{31}{section*.16}%

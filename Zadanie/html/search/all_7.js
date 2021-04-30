@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['odczytajparametry_22',['odczytajParametry',['../funkcje_8cpp.html#a11f8cba4fe17b641ae4abbbf5f27f43a',1,'odczytajParametry(int argc, char **argv, Parametry &amp;p):&#160;funkcje.cpp'],['../funkcje_8h.html#a11f8cba4fe17b641ae4abbbf5f27f43a',1,'odczytajParametry(int argc, char **argv, Parametry &amp;p):&#160;funkcje.cpp']]],
+  ['odleglosc_23',['Odleglosc',['../struct_odleglosc.html',1,'']]],
+  ['operator_20delete_24',['operator delete',['../mem-leak-detect_8cpp.html#a3d97a7e2a0208075b4b37328c96ed390',1,'operator delete(void *ptr):&#160;mem-leak-detect.cpp'],['../mem-leak-detect_8h.html#a3d97a7e2a0208075b4b37328c96ed390',1,'operator delete(void *ptr):&#160;mem-leak-detect.cpp']]],
+  ['operator_20delete_5b_5d_25',['operator delete[]',['../mem-leak-detect_8cpp.html#a1d8b2d6f17242ae0d182b0f7a98ba54f',1,'operator delete[](void *ptr):&#160;mem-leak-detect.cpp'],['../mem-leak-detect_8h.html#a1d8b2d6f17242ae0d182b0f7a98ba54f',1,'operator delete[](void *ptr):&#160;mem-leak-detect.cpp']]],
+  ['operator_20new_26',['operator new',['../mem-leak-detect_8cpp.html#a8dc504d20974acdd1ce1645a39b52d3a',1,'operator new(size_t size, const char *file, uint32_t line):&#160;mem-leak-detect.cpp'],['../mem-leak-detect_8cpp.html#a205ed048fdf5259c2e8e0cb60ee8f719',1,'operator new(size_t size):&#160;mem-leak-detect.cpp'],['../mem-leak-detect_8h.html#a8dc504d20974acdd1ce1645a39b52d3a',1,'operator new(size_t size, const char *file, uint32_t line):&#160;mem-leak-detect.cpp']]],
+  ['operator_20new_5b_5d_27',['operator new[]',['../mem-leak-detect_8cpp.html#a63ce4f64887b9307317aee5baae6b18f',1,'operator new[](size_t size):&#160;mem-leak-detect.cpp'],['../mem-leak-detect_8cpp.html#a34b8f08f861358eb9ec00f92377d2ef6',1,'operator new[](size_t size, const char *file, uint32_t line):&#160;mem-leak-detect.cpp'],['../mem-leak-detect_8h.html#a34b8f08f861358eb9ec00f92377d2ef6',1,'operator new[](size_t size, const char *file, uint32_t line):&#160;mem-leak-detect.cpp']]],
+  ['operator_28_29_28',['operator()',['../struct_porownaj_drzewa.html#af7de4aed22ed894ece2d1911556ea140',1,'PorownajDrzewa']]]
+];

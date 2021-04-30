@@ -1,0 +1,253 @@
+\hypertarget{funkcje_8h}{}\doxysection{funkcje.\+h File Reference}
+\label{funkcje_8h}\index{funkcje.h@{funkcje.h}}
+{\ttfamily \#include $<$iostream$>$}\newline
+{\ttfamily \#include $<$fstream$>$}\newline
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+struct \mbox{\hyperlink{struct_drzewo}{Drzewo}}
+\item 
+struct \mbox{\hyperlink{struct_odleglosc}{Odleglosc}}
+\item 
+struct \mbox{\hyperlink{struct_trasa}{Trasa}}
+\item 
+struct \mbox{\hyperlink{struct_parametry}{Parametry}}
+\item 
+struct \mbox{\hyperlink{struct_porownaj_drzewa}{Porownaj\+Drzewa}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Typedefs}
+\begin{DoxyCompactItemize}
+\item 
+typedef int \mbox{\hyperlink{funkcje_8h_a9582e6e8e21f2a935d9f19fc744bc7a4}{T}}
+\item 
+typedef std\+::string \mbox{\hyperlink{funkcje_8h_a358d82540ba78eff415a71db929edd2c}{M}}
+\end{DoxyCompactItemize}
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+bool \mbox{\hyperlink{funkcje_8h_a11f8cba4fe17b641ae4abbbf5f27f43a}{odczytaj\+Parametry}} (int argc, char $\ast$$\ast$argv, \mbox{\hyperlink{struct_parametry}{Parametry}} \&p)
+\item 
+\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$ \mbox{\hyperlink{funkcje_8h_a69e22a927d515322d6dd398714cbaf36}{Dodajdo\+Drzewa}} (\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&p\+Korzen, const \mbox{\hyperlink{funkcje_8h_a358d82540ba78eff415a71db929edd2c}{M}} \&miasto)
+\item 
+void \mbox{\hyperlink{funkcje_8h_aeddd7cd7b2e44b45d5721f29661ee1c6}{Dodawanie\+Do\+Listy}} (\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&w1, \mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$w2, \mbox{\hyperlink{funkcje_8h_a9582e6e8e21f2a935d9f19fc744bc7a4}{T}} km)
+\item 
+void \mbox{\hyperlink{funkcje_8h_af8252232aed8d98f18e6c08a9d39c109}{Usun\+Listy}} (\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$p\+Korzen)
+\item 
+void \mbox{\hyperlink{funkcje_8h_a6380c35be7e29a6f540bbc9f5222af28}{Usun}} (\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&p\+Korzen)
+\item 
+void \mbox{\hyperlink{funkcje_8h_ada4f0afa28323cba9f7483364f4d2b4b}{Algorytm\+Dijkstry}} (\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&Korzen)
+\item 
+bool \mbox{\hyperlink{funkcje_8h_a3712435e18ba59f5bf76ad1e97722dca}{Wczytaj\+Dane}} (std\+::ifstream \&is, \mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&Korzen)
+\item 
+void \mbox{\hyperlink{funkcje_8h_a003f764c8663372bb3ecaa50951cf1e6}{Zapisywanie\+Tras}} (\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$Korzen, \mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$T1, std\+::ostream \&os)
+\item 
+void \mbox{\hyperlink{funkcje_8h_ad9aa1c657d599b25bb7f23130843d3ef}{Zapisywanie\+Faktyczne}} (\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$Korzen, \mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$T1, std\+::ostream \&os)
+\item 
+void \mbox{\hyperlink{funkcje_8h_a6d648fbcfa49d3035af5766e961a9539}{Zapisz}} (\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$Korzen, \mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$T1, std\+::ostream \&os)
+\item 
+void \mbox{\hyperlink{funkcje_8h_a83eeb32010ae70f7cf64b7e0b505f60a}{Zapiszdo\+Pliku}} (std\+::ostream \&os, \mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$T1, \mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$Korzen)
+\item 
+void \mbox{\hyperlink{funkcje_8h_a33b2c141d7ef3790ebd78082e88d4f50}{Usun\+Strukture\+Trasy}} (\mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$\&T1)
+\end{DoxyCompactItemize}
+\doxysubsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+const \mbox{\hyperlink{funkcje_8h_a9582e6e8e21f2a935d9f19fc744bc7a4}{T}} \mbox{\hyperlink{funkcje_8h_a380528862560a4abd3ca3bbd50ec821a}{M\+A\+X\+I\+NT}} = 2147483647
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Typedef Documentation}
+\mbox{\Hypertarget{funkcje_8h_a358d82540ba78eff415a71db929edd2c}\label{funkcje_8h_a358d82540ba78eff415a71db929edd2c}} 
+\index{funkcje.h@{funkcje.h}!M@{M}}
+\index{M@{M}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{M}{M}}
+{\footnotesize\ttfamily typedef std\+::string \mbox{\hyperlink{funkcje_8h_a358d82540ba78eff415a71db929edd2c}{M}}}
+
+wartosc przechowujaca nazwe miast oraz parametrow \mbox{\Hypertarget{funkcje_8h_a9582e6e8e21f2a935d9f19fc744bc7a4}\label{funkcje_8h_a9582e6e8e21f2a935d9f19fc744bc7a4}} 
+\index{funkcje.h@{funkcje.h}!T@{T}}
+\index{T@{T}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{T}{T}}
+{\footnotesize\ttfamily typedef int \mbox{\hyperlink{funkcje_8h_a9582e6e8e21f2a935d9f19fc744bc7a4}{T}}}
+
+wartosc przechowujaca odleglosci miedzy miastami 
+
+\doxysubsection{Function Documentation}
+\mbox{\Hypertarget{funkcje_8h_ada4f0afa28323cba9f7483364f4d2b4b}\label{funkcje_8h_ada4f0afa28323cba9f7483364f4d2b4b}} 
+\index{funkcje.h@{funkcje.h}!AlgorytmDijkstry@{AlgorytmDijkstry}}
+\index{AlgorytmDijkstry@{AlgorytmDijkstry}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{AlgorytmDijkstry()}{AlgorytmDijkstry()}}
+{\footnotesize\ttfamily void Algorytm\+Dijkstry (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&}]{Korzen }\end{DoxyParamCaption})}
+
+Funkcja znajduje najkrotsze trasy z danej siedziby do innych miast za pomoca Algorytmu Dijkstry 
+\begin{DoxyParams}{Parameters}
+{\em Korzen} & adres korzenia \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funkcje_8h_a69e22a927d515322d6dd398714cbaf36}\label{funkcje_8h_a69e22a927d515322d6dd398714cbaf36}} 
+\index{funkcje.h@{funkcje.h}!DodajdoDrzewa@{DodajdoDrzewa}}
+\index{DodajdoDrzewa@{DodajdoDrzewa}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{DodajdoDrzewa()}{DodajdoDrzewa()}}
+{\footnotesize\ttfamily \mbox{\hyperlink{struct_drzewo}{Drzewo}}$\ast$ Dodajdo\+Drzewa (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&}]{p\+Korzen,  }\item[{const \mbox{\hyperlink{funkcje_8h_a358d82540ba78eff415a71db929edd2c}{M}} \&}]{miasto }\end{DoxyParamCaption})}
+
+Funkcja dodaje miasto do drzewa 
+\begin{DoxyParams}{Parameters}
+{\em p\+Korzen} & adres korzenia \\
+\hline
+{\em miasto} & nazwa miasta w drzewie \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+zwraca adres dodanego wezla 
+\end{DoxyReturn}
+\mbox{\Hypertarget{funkcje_8h_aeddd7cd7b2e44b45d5721f29661ee1c6}\label{funkcje_8h_aeddd7cd7b2e44b45d5721f29661ee1c6}} 
+\index{funkcje.h@{funkcje.h}!DodawanieDoListy@{DodawanieDoListy}}
+\index{DodawanieDoListy@{DodawanieDoListy}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{DodawanieDoListy()}{DodawanieDoListy()}}
+{\footnotesize\ttfamily void Dodawanie\+Do\+Listy (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&}]{w1,  }\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$}]{w2,  }\item[{\mbox{\hyperlink{funkcje_8h_a9582e6e8e21f2a935d9f19fc744bc7a4}{T}}}]{km }\end{DoxyParamCaption})}
+
+Funkcja dodaje do listy trase laczaca jedno miasto z drugim oraz odleglosc miedzy nimi 
+\begin{DoxyParams}{Parameters}
+{\em w1} & adres pierwszego miasta \\
+\hline
+{\em w2} & adres drugiego miasta \\
+\hline
+{\em km} & odleglosc miedzy miastami \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funkcje_8h_a11f8cba4fe17b641ae4abbbf5f27f43a}\label{funkcje_8h_a11f8cba4fe17b641ae4abbbf5f27f43a}} 
+\index{funkcje.h@{funkcje.h}!odczytajParametry@{odczytajParametry}}
+\index{odczytajParametry@{odczytajParametry}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{odczytajParametry()}{odczytajParametry()}}
+{\footnotesize\ttfamily bool odczytaj\+Parametry (\begin{DoxyParamCaption}\item[{int}]{argc,  }\item[{char $\ast$$\ast$}]{argv,  }\item[{\mbox{\hyperlink{struct_parametry}{Parametry}} \&}]{p }\end{DoxyParamCaption})}
+
+Funkcja odczytuje parametry potrzebne do wykonania programu 
+\begin{DoxyParams}{Parameters}
+{\em argc} & Liczba parametrow \\
+\hline
+{\em argv} & Tablica parametrow \\
+\hline
+{\em p} & Struktura przechowujaca parametry na potrzeby programu \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+zwraca false gdy ilosc parametrow sie nie zgadza true gdy uda sie prawidlowo odczytac parametry 
+\end{DoxyReturn}
+\mbox{\Hypertarget{funkcje_8h_a6380c35be7e29a6f540bbc9f5222af28}\label{funkcje_8h_a6380c35be7e29a6f540bbc9f5222af28}} 
+\index{funkcje.h@{funkcje.h}!Usun@{Usun}}
+\index{Usun@{Usun}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{Usun()}{Usun()}}
+{\footnotesize\ttfamily void Usun (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&}]{p\+Korzen }\end{DoxyParamCaption})}
+
+Funkcja usuwa miasta z drzewa 
+\begin{DoxyParams}{Parameters}
+{\em p\+Korzen} & adres korzenia \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funkcje_8h_af8252232aed8d98f18e6c08a9d39c109}\label{funkcje_8h_af8252232aed8d98f18e6c08a9d39c109}} 
+\index{funkcje.h@{funkcje.h}!UsunListy@{UsunListy}}
+\index{UsunListy@{UsunListy}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{UsunListy()}{UsunListy()}}
+{\footnotesize\ttfamily void Usun\+Listy (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$}]{p\+Korzen }\end{DoxyParamCaption})}
+
+Funkcja usuwa polaczenia miedzy miastami 
+\begin{DoxyParams}{Parameters}
+{\em p\+Korzen} & adres korzenia \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funkcje_8h_a33b2c141d7ef3790ebd78082e88d4f50}\label{funkcje_8h_a33b2c141d7ef3790ebd78082e88d4f50}} 
+\index{funkcje.h@{funkcje.h}!UsunStruktureTrasy@{UsunStruktureTrasy}}
+\index{UsunStruktureTrasy@{UsunStruktureTrasy}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{UsunStruktureTrasy()}{UsunStruktureTrasy()}}
+{\footnotesize\ttfamily void Usun\+Strukture\+Trasy (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$\&}]{T1 }\end{DoxyParamCaption})}
+
+Funkcja usuwajaca strukture pomocnicza sluzaca do przechowywania tras 
+\begin{DoxyParams}{Parameters}
+{\em T1} & wskaznik na glowe listy jednokierunkowej przechowujacej trasy \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funkcje_8h_a3712435e18ba59f5bf76ad1e97722dca}\label{funkcje_8h_a3712435e18ba59f5bf76ad1e97722dca}} 
+\index{funkcje.h@{funkcje.h}!WczytajDane@{WczytajDane}}
+\index{WczytajDane@{WczytajDane}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{WczytajDane()}{WczytajDane()}}
+{\footnotesize\ttfamily bool Wczytaj\+Dane (\begin{DoxyParamCaption}\item[{std\+::ifstream \&}]{is,  }\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$\&}]{Korzen }\end{DoxyParamCaption})}
+
+Funkcja wczytuje dane z pliku wejsciowego 
+\begin{DoxyParams}{Parameters}
+{\em is} & strumien z ktorego pobieramy dane \\
+\hline
+{\em Korzen} & wskaznik na korzen drzewa poszukiwan binarnych do ktorego bedziemy dodawac dane \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+zwraca true gdy uda sie prawidlowo wczytac wszystkie dane, false w przypadku gdy dane w pliku sa nieprawidlowe 
+\end{DoxyReturn}
+\mbox{\Hypertarget{funkcje_8h_ad9aa1c657d599b25bb7f23130843d3ef}\label{funkcje_8h_ad9aa1c657d599b25bb7f23130843d3ef}} 
+\index{funkcje.h@{funkcje.h}!ZapisywanieFaktyczne@{ZapisywanieFaktyczne}}
+\index{ZapisywanieFaktyczne@{ZapisywanieFaktyczne}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{ZapisywanieFaktyczne()}{ZapisywanieFaktyczne()}}
+{\footnotesize\ttfamily void Zapisywanie\+Faktyczne (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$}]{Korzen,  }\item[{\mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$}]{T1,  }\item[{std\+::ostream \&}]{os }\end{DoxyParamCaption})}
+
+Funkcja dzieki ktorej odwiedzimy kazdy wezel drzewa (oprocz siedziby) przy zapisywaniu tras 
+\begin{DoxyParams}{Parameters}
+{\em Korzen} & wskaznik na korzen drzewa \\
+\hline
+{\em T1} & struktura pomocnicza w ktorej bedziemy przechowywac wyznaczone trasy \\
+\hline
+{\em os} & strumien sluzacy do zapisu tras do pliku \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funkcje_8h_a003f764c8663372bb3ecaa50951cf1e6}\label{funkcje_8h_a003f764c8663372bb3ecaa50951cf1e6}} 
+\index{funkcje.h@{funkcje.h}!ZapisywanieTras@{ZapisywanieTras}}
+\index{ZapisywanieTras@{ZapisywanieTras}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{ZapisywanieTras()}{ZapisywanieTras()}}
+{\footnotesize\ttfamily void Zapisywanie\+Tras (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$}]{Korzen,  }\item[{\mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$}]{T1,  }\item[{std\+::ostream \&}]{os }\end{DoxyParamCaption})}
+
+Funkcja dzieki ktorej pominiemy siedzibe przy przechodzeniu po wezlach drzewa przy wyznaczaniu tras od danego wezla 
+\begin{DoxyParams}{Parameters}
+{\em Korzen} & wskaznik na korzen drzewa \\
+\hline
+{\em T1} & struktura pomocnicza w ktorej bedziemy przechowywac wyznaczone trasy \\
+\hline
+{\em os} & strumien sluzacy do zapisu tras do pliku \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funkcje_8h_a6d648fbcfa49d3035af5766e961a9539}\label{funkcje_8h_a6d648fbcfa49d3035af5766e961a9539}} 
+\index{funkcje.h@{funkcje.h}!Zapisz@{Zapisz}}
+\index{Zapisz@{Zapisz}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{Zapisz()}{Zapisz()}}
+{\footnotesize\ttfamily void Zapisz (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$}]{Korzen,  }\item[{\mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$}]{T1,  }\item[{std\+::ostream \&}]{os }\end{DoxyParamCaption})}
+
+Funkcja zapisujaca przebieg tras do pomocniczej struktury T1 
+\begin{DoxyParams}{Parameters}
+{\em Korzen} & wskaznik na korzen drzewa \\
+\hline
+{\em T1} & struktura pomocnicza w ktorej bedziemy przechowywac wyznaczone trasy \\
+\hline
+{\em os} & strumien sluzacy do zapisu tras do pliku \\
+\hline
+\end{DoxyParams}
+\mbox{\Hypertarget{funkcje_8h_a83eeb32010ae70f7cf64b7e0b505f60a}\label{funkcje_8h_a83eeb32010ae70f7cf64b7e0b505f60a}} 
+\index{funkcje.h@{funkcje.h}!ZapiszdoPliku@{ZapiszdoPliku}}
+\index{ZapiszdoPliku@{ZapiszdoPliku}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{ZapiszdoPliku()}{ZapiszdoPliku()}}
+{\footnotesize\ttfamily void Zapiszdo\+Pliku (\begin{DoxyParamCaption}\item[{std\+::ostream \&}]{os,  }\item[{\mbox{\hyperlink{struct_trasa}{Trasa}} $\ast$}]{T1,  }\item[{\mbox{\hyperlink{struct_drzewo}{Drzewo}} $\ast$}]{Korzen }\end{DoxyParamCaption})}
+
+Funkcja zapisujaca do pliku wyznaczony przebieg tras i ich dlugosc 
+\begin{DoxyParams}{Parameters}
+{\em Korzen} & wskaznik na korzen drzewa \\
+\hline
+{\em T1} & struktura pomocnicza w ktorej bedziemy przechowywac wyznaczone trasy \\
+\hline
+{\em os} & strumien sluzacy do zapisu tras do pliku \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Variable Documentation}
+\mbox{\Hypertarget{funkcje_8h_a380528862560a4abd3ca3bbd50ec821a}\label{funkcje_8h_a380528862560a4abd3ca3bbd50ec821a}} 
+\index{funkcje.h@{funkcje.h}!MAXINT@{MAXINT}}
+\index{MAXINT@{MAXINT}!funkcje.h@{funkcje.h}}
+\doxysubsubsection{\texorpdfstring{MAXINT}{MAXINT}}
+{\footnotesize\ttfamily const \mbox{\hyperlink{funkcje_8h_a9582e6e8e21f2a935d9f19fc744bc7a4}{T}} M\+A\+X\+I\+NT = 2147483647}
+
+najwieksza mozliwa wartosc int 
