@@ -123,7 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\zadanieprogramistyczne\zadanieprogramistyczne\src\mem-leak-detect.cpp" />
     <ClCompile Include="funkcje.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

@@ -1,5 +1,4 @@
 #include <iostream>
-#include "mem-leak-detect.h"
 #include "funkcje.h"
 #include <fstream> 
 #include <queue>
